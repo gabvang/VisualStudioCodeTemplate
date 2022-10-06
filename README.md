@@ -1,0 +1,2 @@
+# VisualStudioCodeTemplate
+template
